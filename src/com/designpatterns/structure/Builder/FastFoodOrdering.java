@@ -1,4 +1,4 @@
-package com.designpatterns.structure.Bridge;
+package com.designpatterns.structure.Builder;
 
 /**
  * @Description 程序主类
